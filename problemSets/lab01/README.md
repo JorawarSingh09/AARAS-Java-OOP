@@ -1,9 +1,5 @@
 # Lab 01
 
-
-
-* Become familiar with course practices for labs
-* Learn how to use GitLab effectively
 * Learn how to create, compile and run a java program from the command line
 * Gain familiarity with Java development using VSCode IDE
 * Learn the basic syntax of the Java Programming Language
